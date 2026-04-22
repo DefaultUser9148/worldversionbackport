@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "net.worldversionbackport.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LevelStorageMixin",
+    "SavePropertiesMixin"
+  ],
+  "client": [
+    "client.TitleScreenMixin",
+    "client.WorldLoadWarningMixin",
+    "client.SuppressExperimentalWarningMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
