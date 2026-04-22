@@ -1,0 +1,11 @@
+.gradle/
+build/
+bin/
+out/
+*.class
+.idea/
+.vscode/
+*.iml
+run/
+.prototypes/
+fuckyou.txt
