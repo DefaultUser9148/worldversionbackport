@@ -17,7 +17,6 @@ https://fabricmc.net/
 
 A minecraft fabric mod to allow anyone playing older versions of minecraft (pre 26.2 which dont have Vulkan option) to load and play newer worlds which feature the Vulkan renderer in the video options. And also allows to deupgrade worlds, so you can then remove this mod
 
-Versions before and including 0.4 require: [DefaultUserConfigAndLibs](https://modrinth.com/mod/defaultuserconfigandlibs) <br>
 Optional: ModMenu
 
 **First made for 1.21.4, this version will get the most attention from me.**
