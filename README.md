@@ -40,7 +40,7 @@ Minecraft 26.2-snapshot-1 and i think any version after 26.2 (Which introduced t
 
 
 
-## Known Incompatibilities (1.21.4)
+## Incompatibilities
 
 | Mod | Issue | Last Checked |
 |-----|-------|---------------|
